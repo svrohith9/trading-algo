@@ -3,12 +3,12 @@ import requests
 import difflib
 
 
-Firsturl = "https://open.spotify.com/playlist/1TgqeVirsCakE89p9k9CHJ" #playlist 1 url
+Firsturl = "URL1" #playlist 1 url
 req = requests.get(Firsturl)
 soup = BeautifulSoup(req.content, 'html.parser')
 match1= soup.find_all(class_="track-name")  #playlist 1 tune names
 
-Secondurl = "https://open.spotify.com/playlist/37i9dQZF1DX0GO2iStOATx"  #playlist 2 url
+Secondurl = "URL2"  #playlist 2 url
 req = requests.get(Secondurl)
 soup = BeautifulSoup(req.content, 'html.parser')
 match2= soup.find_all(class_="track-name") #playlist 2 tune names
