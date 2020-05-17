@@ -1,4 +1,3 @@
-# Spotify-Playlist-Compare
+# Crazy things you could try !
 
-Web Scraping Spotify playlists for analysis.
-Here, The Percentage of similarity and the matched tunes are printed.
+1. Web Scraping Spotify playlists for analysis.
