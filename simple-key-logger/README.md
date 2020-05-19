@@ -18,18 +18,9 @@ PROJECT
 - MY FIRST CPP SELF MADE project i learnt cpp and software making from online(youtube, udemy..)
 - The total project, files, headers and debug software is above !
 
-FOLLOW ME
-=====================
 
-- Follow me on twitter : http://sh.st/PyXcj
-- Follow me on Google+ : http://sh.st/PyVGh
-- Check out my LinkedIn : http://sh.st/PyXAQ
+- twitter : http://sh.st/PyXcj
+- LinkedIn : http://sh.st/PyXAQ
 
-=====================
 
-Check out my Content on Hacking and Coding:
-
-► http://sh.st/PyBmH
-► http://sh.st/PyBIq
-► http://sh.st/PyBSv
 
