@@ -15,8 +15,8 @@ data = csv.reader(file)
 
 for row in data:
 #     print(row[3])
-     img = qrcode.make(row[10])        
-     img.save('~~Export Filepath~~'+str(row[3])+'.png') 
+     img = qrcode.make(row[10]) #Give required row[i] to encode that information    
+     img.save('~~Export Filepath~~'+str(row[3])+'.png') #Give Unique row[i] to get unique file name at desired path folder
 
 
 
